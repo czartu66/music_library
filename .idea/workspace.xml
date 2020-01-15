@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc2cdf85-c7cd-43fa-806d-25bdd3da2bd6" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="czartu-music-1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WQcKhkQpQNHaa7mwCK9eP7tbgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc2cdf85-c7cd-43fa-806d-25bdd3da2bd6" name="Default Changelist" comment="" />
+      <created>1579085196767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579085196767</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding song feature added">
+      <created>1579085688708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579085688708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changing the name of the project">
+      <created>1579087132349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579087132349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pre-merge">
+      <created>1579087693069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579087693069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc">
+      <created>1579088152369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579088152369</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding song feature added" />
+    <MESSAGE value="changing the name of the project" />
+    <MESSAGE value="pre-merge" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579086765039">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579086765039" />
+    <state x="-1201" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579087998467">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1201" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087998467" />
+    <state x="-1325" y="108" key="CommitChangelistDialog2" timestamp="1579088522259">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1325" y="108" key="CommitChangelistDialog2/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579088522259" />
+    <state x="-1582" y="172" key="DiffContextDialog" timestamp="1579085632172">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1582" y="172" key="DiffContextDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579085632172" />
+    <state x="-1459" y="162" key="SettingsEditor" timestamp="1579085338733">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="162" key="SettingsEditor/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579085338733" />
+    <state x="-1368" y="241" key="Vcs.Push.Dialog.v2" timestamp="1579088321807">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="241" key="Vcs.Push.Dialog.v2/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579088321807" />
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579087577769">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="92" width="1736" height="856" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087577769" />
+    <state x="-1151" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579087786166">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087786166" />
+    <state x="-1265" y="125" width="609" height="789" key="find.popup" timestamp="1579086864905">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1265" y="125" width="609" height="789" key="find.popup/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579086864905" />
+    <state x="-1692" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1579088483757">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1692" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579088483757" />
+    <state x="-1238" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1579087951184">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1238" y="311" key="git4idea.merge.GitMergeDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087951184" />
+    <state x="-1329" y="367" key="git4idea.ui.GitUnstashDialog" timestamp="1579087806847">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1329" y="367" key="git4idea.ui.GitUnstashDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087806847" />
+  </component>
+</project>
