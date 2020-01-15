@@ -7,6 +7,7 @@ from django.views.generic import View
 from .models import Album, Song
 from .forms import UserForm
 
+
 class IndexView(generic.ListView):
     """Return all of Album objects"""
     template_name = 'music/index.html'
@@ -14,6 +15,7 @@ class IndexView(generic.ListView):
 
     def get_queryset(self):
         return Album.objects.all()
+
 
 class DetailView(generic.DetailView):
     """Make a detailed view"""
