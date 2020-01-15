@@ -22,4 +22,13 @@ urlpatterns = [
     # /music/album/2/delete/
     url(r'^(?P<pk>[0-9]+)/delete/$', views.AlbumDelete.as_view(), name='album-delete'),
 
+    # /music/song/add/
+    url(r'song/add/$', views.SongAdd.as_view(), name='song-add'),
+
+    # /music/song/1/
+    url(r'song/(?P<pk>[0-9]+)/$', views.SongUpdate.as_view(), name='song-update'),
+
+    # /music/song/1/delete/
+    url(r'^(?P<pk>[0-9]+)/delete/$', views.SongDelete.as_view(), name='song-delete'),
+
 ]
