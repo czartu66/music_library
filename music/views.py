@@ -6,6 +6,7 @@ from django.contrib.auth import authenticate, login
 from django.views.generic import View
 from .models import Album, Song
 from .forms import UserForm
+from django.shortcuts import render
 
 
 class IndexView(generic.ListView):
@@ -34,25 +35,30 @@ class AlbumUpdate(UpdateView):
     model = Album
     fields = ['artist', 'album_title', 'genre', 'album_logo']
 
+
 class AlbumDelete(DeleteView):
     """Delete an Album"""
     model = Album
     success_url = reverse_lazy('music:index')
+
 
 class SongAdd(CreateView):
     """Add a Song"""
     model = Song
     fields = ['album', 'song_title']
 
+
 class SongUpdate(UpdateView):
     """Update a Song"""
     model = Song
     fields = ['album', 'song_title']
 
+
 class SongDelete(DeleteView):
     """Delete a Song"""
     model = Song
     success_url = reverse_lazy('music:index')
+
 
 class UserFormView(View):
     """Create the Registration Form"""
