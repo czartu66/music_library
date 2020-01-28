@@ -9,7 +9,7 @@ class AboutMe(models.Model):
     image = models.ImageField(upload_to="about")
 
     class Meta:
-        verbse_name = "About Me"
+        verbose_name = "About Me"
         verbose_name_plural = "About Me"
 
         def __str__(self):
