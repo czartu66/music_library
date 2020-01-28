@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc2cdf85-c7cd-43fa-806d-25bdd3da2bd6" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc" />
+    <list default="true" id="bc2cdf85-c7cd-43fa-806d-25bdd3da2bd6" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;db.sqlite3&#10;#&#9;music/__pycache__/urls.cpython-37.pyc&#10;#&#9;music/__pycache__/views.cpython-37.pyc">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,14 +101,19 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1201" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579087998467" />
-    <state x="-1325" y="108" key="CommitChangelistDialog2" timestamp="1579088522259">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="595" y="108" key="CommitChangelistDialog2" timestamp="1579781979808">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1325" y="108" key="CommitChangelistDialog2/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579088522259" />
+    <state x="595" y="108" key="CommitChangelistDialog2/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579781979808" />
     <state x="-1582" y="172" key="DiffContextDialog" timestamp="1579085632172">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1582" y="172" key="DiffContextDialog/0.0.1536.824/-3840.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579085632172" />
+    <state x="739" y="263" key="FileChooserDialogImpl" timestamp="1579777243531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="263" key="FileChooserDialogImpl/3840.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579777243531" />
     <state x="-1459" y="162" key="SettingsEditor" timestamp="1579085338733">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
